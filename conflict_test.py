@@ -1,2 +1,2 @@
-print('Hello Git')
-print('Hello Pychurm')
+print('Hello, Git')
+print('Hello Pycharm')
